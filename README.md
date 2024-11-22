@@ -4,8 +4,8 @@ This is a Create React App. It is hosted using firebase hosting and uses github 
 ## Local development
 - Use / Install node 18.10.0 
 	Suggest using nvm or n
-	Install npm
-	Install yarn
+- Install yarn 
+	`npm install --global yarn`
 - Clone repo
 	`gh repo clone wmaltmann/alliance-selector`
 - Install packages
